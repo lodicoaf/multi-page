@@ -1,0 +1,17 @@
+/* your styles go here */
+
+p{
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+  font-family: 'Hammersmith One', sans-serif;
+}
+
+.box img {
+    filter: grayscale(100%);
+}
+
+.box img:hover {
+    filter: grayscale(0);
+}
