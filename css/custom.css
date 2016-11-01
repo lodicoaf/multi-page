@@ -1,5 +1,17 @@
 /* your styles go here */
 
+.title {
+  font-family: 'Yellowtail', cursive;
+  font-size: 72px;
+  margin-top: -275px;
+  margin-left: -150px;
+}
+
+.italic{
+  margin-left: -155px;
+  margin-top: -10px;
+}
+
 p{
   font-family: 'Open Sans', sans-serif;
 }
