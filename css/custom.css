@@ -31,3 +31,20 @@ body h2, h4{
 .box img:hover {
     filter: grayscale(0);
 }
+
+.form-control{
+  border-radius: 3px;
+}
+
+.btn{
+  border-radius: 3px;
+  font-family: 'Hammersmith One', sans-serif;
+}
+
+label {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.ekko-lightbox .modal-footer {
+  font-family: 'Open Sans', sans-serif;
+}
