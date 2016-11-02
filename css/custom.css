@@ -2,21 +2,25 @@
 
 .title {
   font-family: 'Yellowtail', cursive;
-  font-size: 72px;
-  margin-top: -275px;
-  margin-left: -150px;
+  margin-top: 175px;
 }
 
-.italic{
-  margin-left: -155px;
-  margin-top: -10px;
+.arrow a i {
+  color: #ffffff;
+  margin-left: 50%;
+  margin-top: 300px;
 }
 
-p{
+body li {
+  font-family: 'Yellowtail', cursive;
+  font-style: normal;
+}
+
+body p{
   font-family: 'Open Sans', sans-serif;
 }
 
-h1{
+body h2, h4{
   font-family: 'Hammersmith One', sans-serif;
 }
 
