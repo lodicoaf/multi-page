@@ -1,29 +1,44 @@
 /* your styles go here */
 
+/* smooth scroll */
+body, html, .main {
+    height: 100%;
+}
+
+section {
+    min-height: 100%;
+}
+
+/* title font */
 .title {
   font-family: 'Yellowtail', cursive;
   margin-top: 175px;
 }
 
+/* chevron button */
 .arrow a i {
   color: #ffffff;
   margin-left: 50%;
   margin-top: 300px;
 }
 
+/* navbar font */
 body li {
   font-family: 'Yellowtail', cursive;
   font-style: normal;
 }
 
-body p{
-  font-family: 'Open Sans', sans-serif;
-}
-
+/* heading font */
 body h2, h4{
   font-family: 'Hammersmith One', sans-serif;
 }
 
+/* paragraph font */
+body p{
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* bw to color on images*/
 .box img {
     filter: grayscale(100%);
 }
@@ -32,6 +47,7 @@ body h2, h4{
     filter: grayscale(0);
 }
 
+/* contact form buttons */
 .form-control{
   border-radius: 3px;
 }
@@ -45,6 +61,7 @@ label {
   font-family: 'Open Sans', sans-serif;
 }
 
+/* footer in image popup */
 .ekko-lightbox .modal-footer {
   font-family: 'Open Sans', sans-serif;
 }
