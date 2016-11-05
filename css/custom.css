@@ -65,6 +65,10 @@ body h4{
   text-align: center;
 }
 
+#info {
+  padding-top: 100px;
+}
+
 /* Carousel */
 .container{
   padding-top: 25px;
