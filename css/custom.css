@@ -9,6 +9,11 @@ section {
     min-height: 100%;
 }
 
+.navbar-brand > img {
+    display: block;
+    width: 55%;
+}
+
 /* title font */
 .title {
   font-family: 'Yellowtail', cursive;
@@ -36,6 +41,12 @@ body h2, h4{
 /* paragraph font */
 body p{
   font-family: 'Open Sans', sans-serif;
+}
+
+#about a:hover {
+  text-decoration: none;
+  color: #838383;
+  font-style: italic;
 }
 
 /* bw to color on images*/
